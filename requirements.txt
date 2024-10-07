@@ -1,6 +1,6 @@
 streamlit==1.25.0
-pdfplumber==0.9.0
-pandas>=2.1.1
+pdfplumber
+pandas
 openpyxl
 xlsxwriter
-Pillow<10,>=9.4.0   # Ensures compatibility with Streamlit
+Pillow<10.0.0
